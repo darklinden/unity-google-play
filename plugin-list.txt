@@ -1,33 +1,32 @@
+# AdMob Unity Plugin, For Ad Support
 # https://developers.google.com/admob/unity/quick-start
 # https://github.com/googleads/googleads-mobile-plugins/releases/latest
 https://github.com/googleads/googleads-mobile-unity/releases/download/v8.6.0/GoogleMobileAds-v8.6.0.unitypackage
 
 
+# Plugins for Unity Can Be Downloaded Here
 # https://developers.google.com/unity/packages
 
-* Android App Bundle
+# Android App Bundle - For Export Android App Bundle
 https://dl.google.com/games/registry/unity/com.google.android.appbundle/com.google.android.appbundle-1.9.0.unitypackage
 
-* Android Performance Tuner
-https://dl.google.com/games/registry/unity/com.google.android.performancetuner/android-performance-tuner-1.1.2.unitypackage
-
-* Firebase Crashlytics
+# Firebase Crashlytics - Crash Reporting
 https://dl.google.com/firebase/sdk/unity/dotnet4/FirebaseCrashlytics_11.6.0.unitypackage
 
-* Google Analytics
+# Google Analytics
 https://dl.google.com/firebase/sdk/unity/dotnet4/FirebaseAnalytics_11.6.0.unitypackage
 
-* Play Asset Delivery
+# Play Asset Delivery - For Package Larger Than 150MB Package Can Split Into Multiple Packages
 https://dl.google.com/games/registry/unity/com.google.play.assetdelivery/com.google.play.assetdelivery-1.8.2.unitypackage
 
-* Play Billing Library
-https://dl.google.com/games/registry/unity/com.google.play.billing/com.google.play.billing-3.2.4.unitypackage
+# Play Billing Library - For In-App Purchase Support, But this plugin is out dated, use Unity IAP instead
+# https://dl.google.com/games/registry/unity/com.google.play.billing/com.google.play.billing-3.2.4.unitypackage
 
-* Play In-App Review
+# Play In-App Review
 https://dl.google.com/games/registry/unity/com.google.play.review/com.google.play.review-1.8.1.unitypackage
 
-* Play In-App Update
+# Play In-App Update
 https://dl.google.com/games/registry/unity/com.google.play.appupdate/com.google.play.appupdate-1.8.1.unitypackage
 
-* External Dependency Manager for Unity
+# External Dependency Manager for Unity
 https://github.com/googlesamples/unity-jar-resolver/raw/v1.2.177/external-dependency-manager-1.2.177.unitypackage
